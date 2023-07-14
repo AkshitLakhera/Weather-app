@@ -4,7 +4,7 @@ This is a simple weather application built using HTML, CSS, and JavaScript with 
 
 ## Demo
 
-You can see a live demo of the weather app (https://your-app-demo-url)](https://akshitlakhera.github.io/Weather-app/).
+You can see a live demo of the weather app (https://akshitlakhera.github.io/Weather-app/).
 
 ## Features
 
