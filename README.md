@@ -23,7 +23,6 @@ You can see a live demo of the weather app (https://akshitlakhera.github.io/Weat
 - Axios
 
 ## Prerequisites
-
 Before running the project on your local machine, ensure that you have the following:
 
 - A modern web browser (Chrome, Firefox, Safari, etc.).
@@ -51,25 +50,4 @@ To make API requests and fetch weather data, you'll need an API key from OpenWea
 
 3. Copy the API key and replace the `API_KEY` variable in the `script.js` file with your actual API key.
 
-```javascript
-const API_KEY = 'YOUR_API_KEY';
-    Save the changes to the script.js file.
 
-Usage
-
-Once you have the project set up and the API key configured, you can use the weather app as follows:
-
-    Enter the name of a city or location in the input field.
-
-    Click the "Get Weather" button or press Enter.
-
-    The app will fetch the weather data from the OpenWeatherMap API and display it on the screen.
-
-    Explore the weather details and enjoy using the app!
-
-Contributing
-
-Contributions to the project are welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
-License
-
-This project is licensed under the MIT License.
