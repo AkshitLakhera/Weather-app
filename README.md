@@ -1,9 +1,7 @@
 # My Weather App
-
 This is a simple weather application built using HTML, CSS, and JavaScript with Bootstrap. The app fetches weather data from the OpenWeatherMap API using `async/await` and the `fetch` API. It also utilizes the Axios library for making HTTP requests.
 
 ## Demo
-
 You can see a live demo of the weather app (https://akshitlakhera.github.io/Weather-app/).
 
 ## Features
