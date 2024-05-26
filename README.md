@@ -11,8 +11,7 @@ You can see a live demo of the weather app (https://akshitlakhera.github.io/Weat
 - Show additional details such as humidity, wind speed, and visibility.
 - User-friendly and responsive design using Bootstrap.
 
-## Technologies Used
-
+## Technologies Used in the    Project
 - HTML
 - CSS
 - JavaScript
